@@ -12,8 +12,6 @@
     "allowJs": true,
     "noUnusedLocals": false,
     "strictNullChecks": false,
-    "compilerOptions": {
-      "outDir": "build"
-    }
+    "outDir": "build"
   }
 }
